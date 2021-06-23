@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(255,192,203, 0.5);
+  }
+  #image{
+    margin: auto;
+    width: 80%;
+    max-width: 100%;
+    display: block;
+  }
+  header, footer{
+    text-align: center;
+    background-color: #f2cad1;
+  }
+  form, #quote, #tribute-info, #link{
+    text-align: center;
+  }
+  a{
+    text-decoration: none;
+  }
+  #title{
+    font-size: 50px;
+  }
+  li{
+    list-style:none
+  }
+  li, #quote, #link{
+    padding-right: 5%;
+  }
